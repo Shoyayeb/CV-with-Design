@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../WORK FOLDER 2"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "temp"
+	}
+}
